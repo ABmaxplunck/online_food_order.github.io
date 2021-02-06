@@ -1,0 +1,29 @@
+@media screen and (max-width:1500px){
+   .left{ 
+    padding-left: 200px; 
+   
+} 
+     .title{
+    margin-right: 300px;
+    position: relative; 
+    top:10px;
+    font-size: 30px;
+    left: 20px;
+}
+}
+
+@media screen and (max-width:1300px){
+   .left{ 
+    padding-left: 130px; 
+   
+} 
+    
+    .title{
+    margin-right: 250px;
+    position: relative; 
+    top:10px;
+    font-size: 30px;
+    left: 20px;
+}
+}
+
